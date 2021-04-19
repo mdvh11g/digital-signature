@@ -1,1 +1,1 @@
-Ecliptic Curve Cryptorgaphy co-processor Over Galua Field
+High Performance Elliptic Curve Cryptographic Co-processor
