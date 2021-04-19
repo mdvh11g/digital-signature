@@ -1,6 +1,4 @@
 
-// Ecliptic Curve Cryptorgaphy co-processor Over Galua Field
-
 module svarog #(
   parameter DATA_SIZE  = 32,
   parameter ADDR_SIZE  = 32,
