@@ -11,7 +11,7 @@ instruction[0]  = 16'b1010_000_000_0100_00; // load core_reg_a to result[0]
 instruction[1]  = 16'b0001_000_000_0101_00; // result[0] * reg_b -> result[0]
 instruction[2]  = 16'b0000000000000011;     // === end ===
 
-// ecliptic point additions example (P != Q)
+// elliptic point additions example (P != Q)
 
 instruction[3]  = 16'b1010_000_000_0100_00; // load core_reg_a to result[0],   a_x
 instruction[4]  = 16'b1010_001_000_0101_00; // load core_reg_b to result[1],   a_y
